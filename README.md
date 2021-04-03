@@ -19,7 +19,7 @@ create a button and a input(define `bool` at `true`) or only a input(define `boo
 `<div>
 the Value inside it
 </div>`
-` DeleteDeltaElements(deletedElements)` deletes one element at a time(only the created with the delty lib) the values of the parameter cannot be nothing more than the following values:
+`DeleteDeltaElements(deletedElements)` deletes one element at a time(only the created with the delty lib) the values of the parameter cannot be nothing more than the following values:
 "text"
 "img"
 "link"
