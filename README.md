@@ -17,7 +17,7 @@ create a button and a input(define `bool` at `true`) or only a input(define `boo
 ` RenderDivs(bool,Value,id,Node)`
 `bool` parameter define if the div has a text this i'll be the equivalent  code in html:
 `<div>the Value inside it</div>`
-`DeleteDeltaElements(deletedElements)` deletes one element at a time(only the created with the delty lib) the values of the parameter cannot be nothing more than the following values:
+`DeleteDeltaElements(deletedElements)` deletes one element at a time(only the created with the deltey lib) the values of the parameter cannot be nothing more than the following values:
 "text"
 "img"
 "link"
