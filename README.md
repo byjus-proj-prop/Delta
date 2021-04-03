@@ -24,3 +24,4 @@ create a button and a input(define `bool` at `true`) or only a input(define `boo
 "button"
 "input"
 "div"
+anything else i'll annul the function effect
